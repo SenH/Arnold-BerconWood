@@ -1,0 +1,29 @@
+STRINGTABLE ainode_BerconWood
+{
+    ainode_BerconWood                           "Arnold BerconWood node";
+
+    C4DAI_BERCONWOOD_MAIN_GRP                   "Wood";
+    C4DAIP_BERCONWOOD_WOOD_TYPE                 "Type";
+
+    C4DAI_BERCONWOOD_TRUNK_GRP                  "Trunk";
+    C4DAIP_BERCONWOOD_TRUNK_WOBBLE_STRENGTH     "Strength";
+    C4DAIP_BERCONWOOD_TRUNK_WOBBLE_FREQUENCY    "Frequency";
+
+    C4DAI_BERCONWOOD_RADIAL_GRP                 "Radial";
+    C4DAIP_BERCONWOOD_RADIAL_STRENGTH           "Strength";
+    C4DAIP_BERCONWOOD_RADIAL_FREQUENCY          "Frequency";
+    C4DAIP_BERCONWOOD_RADIAL_Z_FREQUENCY        "Frequency Z";
+
+    C4DAI_BERCONWOOD_ANGULAR_GRP                "Angular";
+    C4DAIP_BERCONWOOD_ANGULAR_STRENGTH          "Strength";
+    C4DAIP_BERCONWOOD_ANGULAR_FREQUENCY         "Frequency";
+    C4DAIP_BERCONWOOD_ANGULAR_RADIUS            "Radius";
+
+    C4DAI_BERCONWOOD_GRAIN_GRP                  "Grain";
+    C4DAIP_BERCONWOOD_COLOR_GRAIN               "Color";
+    C4DAIP_BERCONWOOD_GRAIN_STRENGTH            "Strength";
+    C4DAIP_BERCONWOOD_GRAIN_FREQUENCY           "Frequency";
+
+    C4DAI_BERCONWOOD_COORDINATES_GRP            "Coordinates";
+}
+

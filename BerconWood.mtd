@@ -1,0 +1,67 @@
+[node BerconWood]
+	c4d.classification 	STRING "texture"
+	c4d.menu 			STRING "texture"
+
+	[attr size]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	32.0
+
+	[attr low_threshold]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr high_threshold]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr skew]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr width_variation]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr gain_variation]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr trunk_wobble_strength]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr trunk_wobble_frequency]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr radial_strength]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr radial_frequency]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	3.2
+
+	[attr radial_z_frequency]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	0.32
+
+	[attr angular_strength]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr angular_frequency]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	32.0
+
+	[attr angular_radius]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	150.0
+
+	[attr grain_strength]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	1.0
+
+	[attr grain_frequency]
+	softmin				FLOAT	0.0
+	softmax				FLOAT	32.0
